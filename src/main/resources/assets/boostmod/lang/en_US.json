@@ -1,3 +1,5 @@
 {
-  "item.boostmod.booster": "Booster"
+  "item.boostmod.booster_item": "Booster Item",
+  "itemGroup.boostmod": "Boost Mod",
+  "block.boostmod.booster_block": "Booster Block"
 }
